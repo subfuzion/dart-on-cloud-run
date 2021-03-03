@@ -1,10 +1,12 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome!](README.md)
 
 ## Getting Started
 
-* [Prerequisites](getting-started/prerequisites.md)
+---
+
+* [Prerequisites](prerequisites.md)
 
 ## Running your backend on Cloud Run
 
