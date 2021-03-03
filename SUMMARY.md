@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Untitled](getting-started/untitled.md)
+* [Prerequisites](getting-started/prerequisites.md)
 
 ## Running your backend on Cloud Run
 
